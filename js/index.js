@@ -39,7 +39,7 @@ printCircumference(6);
 // Uncomment the following function calls and implement the function printRectangleArea
 
 function printRectangleArea(width, length) {
-  console.log(width * length);
+  console.log("The area of the rectangle is: ", width * length);
 }
 
 printRectangleArea(5, 7);
